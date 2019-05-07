@@ -1,0 +1,3 @@
+producto1, 10, 15, 21
+producto2, 20, 0, 3
+producto3, 4, 8, 0
